@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: abottom-dot-org
+    runtime: static
+    buildCommand: "true"
+    staticPublishPath: .
+    autoDeployTrigger: commit
