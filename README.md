@@ -2,4 +2,4 @@
 
 An infosite for a new, old word: *abottom*
 
-Hosted on Render; domain registered on Cloudflare
+Domain registered on Cloudflare, hosted in a Worker
